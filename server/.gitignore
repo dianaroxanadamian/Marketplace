@@ -1,0 +1,6 @@
+node_modules/
+.env
+db/marketplace.sqlite
+db/marketplace.sqlite-*
+uploads/*
+!uploads/.gitkeep
